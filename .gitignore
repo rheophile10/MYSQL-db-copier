@@ -1,2 +1,5 @@
 .env
 virtualenv
+*.csv
+__pycache__
+*.sql
